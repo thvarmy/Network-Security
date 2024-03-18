@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -rdynamic CMakeFiles/main.dir/DEC.cpp.o CMakeFiles/main.dir/main.cpp.o -o main 

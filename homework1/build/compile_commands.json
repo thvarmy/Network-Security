@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/army/network-security/homework1/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/DEC.cpp.o -c /home/army/network-security/homework1/DEC.cpp",
+  "file": "/home/army/network-security/homework1/DEC.cpp"
+},
+{
+  "directory": "/home/army/network-security/homework1/build",
+  "command": "/usr/bin/clang++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/army/network-security/homework1/main.cpp",
+  "file": "/home/army/network-security/homework1/main.cpp"
+}
+]

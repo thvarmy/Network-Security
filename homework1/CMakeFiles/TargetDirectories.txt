@@ -1,0 +1,3 @@
+/home/army/network-security/homework1/CMakeFiles/main.dir
+/home/army/network-security/homework1/CMakeFiles/edit_cache.dir
+/home/army/network-security/homework1/CMakeFiles/rebuild_cache.dir
