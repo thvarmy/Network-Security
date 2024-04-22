@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.l": "lex",
+        "*.c": "cpp",
+        "iomanip": "cpp"
+    }
+}
